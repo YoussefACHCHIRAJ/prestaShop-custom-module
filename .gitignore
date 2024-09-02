@@ -1,0 +1,60 @@
+#Cache Files
+/var/cache/
+
+#Log Files
+/var/logs/
+/app/logs/
+
+#Temporary and Session Files
+/var/sessions/
+/var/tmp/
+
+#Upload and Generated Files
+/img/tmp/
+/img/cms/
+/img/category/
+/img/l/
+/img/m/
+/img/p/
+/img/su/
+/img/co/
+/img/t/
+/img/supplier/
+/img/att/
+/img/brand/
+/img/os/
+/img/scenes/
+/img/mn/
+/img/st/
+/upload/
+/download/
+
+#Compiled and Minified Files
+/themes/*/assets/cache/
+/themes/*/cache/
+/themes/*/js/modules/
+/themes/*/css/modules/
+
+#Node Modules and Composer Dependencies
+/node_modules/
+/vendor/
+/public_html/vendor/
+
+#Environment Files
+/.env
+/.env.local
+/.env.*.local
+/config/parameters.php
+/config/settings.inc.php
+
+#Backup and Export Files
+/admin*/backups/
+/admin*/export/
+/admin*/import/
+
+# IDE and System Files
+/.idea/
+/.vscode/
+/Thumbs.db
+/.DS_Store
+
